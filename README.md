@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi! Welcome to my Github%20render&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20Welcome%20to%20my%20Github%20render&fontSize=90&animation=fadeIn)
 
 <!--
 **uzrafi/uzrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
