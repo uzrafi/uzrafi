@@ -13,7 +13,9 @@
 <!-- - Resume: 
 file:///C:/Users/Uzair/Downloads/Uzair_Rafi___Resume-2.pdf -->
 <div>
+  <a href="https://www.linkedin.com/in/uzairrafi">
   <img height="40" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
