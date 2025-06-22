@@ -6,9 +6,14 @@
 - Contact me at uzairrafi159@gmail.com
 <!-- - Resume: 
 file:///C:/Users/Uzair/Downloads/Uzair_Rafi___Resume-2.pdf -->
+
 <div>
   <a href="https://www.linkedin.com/in/uzairrafi">
-  <img height="40" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://uzrafi.vercel.app/">
+  <img height="20" src="https://img.shields.io/badge/Website-red"/>
   </a>
 </div>
 
