@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋,%20Welcome%20to%20my%20Github!&fontSize=50&animation=fadeIn)
-
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzrafi&show_icons=true&theme=radical)
-<img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzrafi&layout=compact&theme=radical" />
-</a>
-
-
+### Hi👋, Welcome to my GitHub
 ---
 
 ### About Me :
