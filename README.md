@@ -13,7 +13,7 @@ file:///C:/Users/Uzair/Downloads/Uzair_Rafi___Resume-2.pdf -->
   </a>
  </div> 
  <div>
-  <a href="https://uzrafi.vercel.app/">
+  <a href="https://uzrafi.dev/">
   Website
   </a>
 </div>
